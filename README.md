@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AngularBasicsComponentesDado2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# Angular-Basics_Componentes-Dado2
+>>>>>>> bc14f129a212747c28a413510a5815f8eeff9f0a
